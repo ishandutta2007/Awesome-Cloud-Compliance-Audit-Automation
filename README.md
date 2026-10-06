@@ -68,7 +68,7 @@ Whether you are preparing for your first **SOC 2 Type I/II** audit, striving for
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[OPA (Open Policy Agent)](https://github.com/open-policy-agent/opa)** [![Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers)  
   **General-purpose policy-as-code engine for unified compliance enforcement**, Apache-2.0 licensed. ⚡ **22,000+ stars**. Rego declarative policy language enables uniform policy enforcement across microservices, Kubernetes (Gatekeeper), CI/CD pipelines, and cloud infrastructure. 🎛️
@@ -123,7 +123,7 @@ Contributions are welcome! Follow these steps to submit new compliance automatio
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars Count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
